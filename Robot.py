@@ -1,4 +1,4 @@
-def getShortestDistance(inputValue):
+def getMinimumDistance(inputValue):
 
     #get x and y coordinates
     pos = [0,0]
@@ -53,4 +53,4 @@ def getShortestDistance(inputValue):
     print("Distance required to travel from ending position " + str(pos) +" to starting position [0,0] is " + str(distance))
 
 #give the input
-getShortestDistance(input("Enter the input: "))
+getMinimumDistance(input("Enter the input value separated by comma: "))
