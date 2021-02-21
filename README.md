@@ -9,5 +9,4 @@ Instructions to execute the code:
 Design Decision:
 1. There are 4 directions in which the robot can turn. The robot is faced North by default.
 2. The code accepts any input values unless the given command is correct. You can turn the robot 90 degrees for N number of times such as "R2,R3,R4".
-3. The current position of the robot in x,y coordinates is obtained and displayed at each movements.
-4. Atlast the distance is calculated.
+3. Atlast the distance is calculated.
